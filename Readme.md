@@ -244,5 +244,9 @@ console.log("Server running...");
 
 ---
 
+# 4
+now we install prettier
+```
+npm i prettier
 
 
